@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <h1>HELLO WORLD</h1>
-      <h1>編集テスト</h1>
+      <h1>編集2</h1>
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
