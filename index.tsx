@@ -16,7 +16,6 @@ export default function Home() {
       </Head>
       <h1>HELLO WORLD</h1>
       <h1>編集2</h1>
-      <h1>編集3</h1>
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
